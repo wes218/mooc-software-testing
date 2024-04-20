@@ -1,5 +1,3 @@
-package tudelft.name;
-
 public class WesleyLuong {
     public String getFullName() {
         return "Wesley Luong";
